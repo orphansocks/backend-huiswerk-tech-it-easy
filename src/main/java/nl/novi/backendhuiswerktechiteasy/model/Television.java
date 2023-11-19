@@ -1,7 +1,7 @@
 package nl.novi.backendhuiswerktechiteasy.model;
 
 public class Television {
-    private String name;
-    private String type;
+    private String brand;
+    private String serial;
 
 }
